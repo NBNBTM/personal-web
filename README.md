@@ -1,17 +1,18 @@
 # Personal Web
 
-This repository contains a small static website built for practice. The site
-includes a single HTML page that introduces Lindsey Yang and lists various
-hobbies. Images are stored in PNG format and referenced by the page.
+This repository contains an early static-HTML practice site for Lindsey Yang. It has been updated to minimize personal information and point visitors to current public projects.
 
-## Files
+## Current content
 
-- **index.html** - main webpage
-- **image_converted.png** - profile picture
-- **converted_image.png** - photo used in the hobbies section
+- A short professional introduction
+- Links to PDDL MCP Server and MetaAgent
+- General interests
+- GitHub, LinkedIn, and project-site links
 
-## Usage
+## Run locally
 
-Open `index.html` in any modern web browser to view the page. No additional
-build step is required.
+Open `index.html` in any modern browser. No build step is required.
 
+## Privacy
+
+Do not add phone numbers, birth dates, physical measurements, private identifiers, credentials, or other sensitive personal data to this public repository.
